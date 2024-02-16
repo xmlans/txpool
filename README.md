@@ -1,5 +1,5 @@
 ---
-description: 解答常见问题，如没有您疑惑的问题，请您在糖心池主页发起工单！
+description: 解答常见问题，如没有您疑惑的问题，请您在糖心池主页发起工单！糖心池唯一官方链接：https://www.txpool.top/
 ---
 
 # 糖心池 常见问题解答 Frequently Asked Questions
