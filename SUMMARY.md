@@ -5,3 +5,4 @@
 * [付费定制线路](fu-fei-ding-zhi-xian-lu.md)
 * [联系支持及提交建议](lian-xi-zhi-chi-ji-ti-jiao-jian-yi.md)
 * [币种评定期是什么？](bi-zhong-ping-ding-qi-shi-shi-mo.md)
+* [糖心池隐私政策](tang-xin-chi-yin-si-zheng-ce.md)
